@@ -22,8 +22,8 @@ chmod +x install_script2_ubuntu.sh
 ```
 
 Testé sur :
-Ubuntu
-WSL
-mac
+Ubuntu 24.04 lts
+,WSL
+,mac
 
 
