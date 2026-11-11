@@ -29,7 +29,7 @@ ENABLE_CORRECTION="true"
 COMPLETION_WAITING_DOTS="true"
 
 # Which plugins would you like to load? Standard plugins can be found in $ZSH/plugins/ Custom 
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-autocomplete aliases 
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting aliases 
 alias-finder copypath gitfast jsontools python dirhistory vscode web-search)
 
 source $ZSH/oh-my-zsh.sh
