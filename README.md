@@ -1,4 +1,4 @@
-# Dotfiles_kickstarter
+# Atelier git et shell 
 
 Tout-en-un : dotfiles, script d'installation et script de configuration
 pour l'atelier Git et shell de l'UQODE.
