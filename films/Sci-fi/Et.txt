@@ -1,0 +1,19 @@
+Titre: E.T. l'extra-terrestre
+Annee: 1982
+Realisateur: Steven Spielberg
+Genre: Science-fiction
+Duree: 115
+Pays: Etats-Unis
+Note: 7.9
+
+Synopsis:
+Un extraterrestre oublie sur Terre par les siens est recueilli par Elliott,
+un garcon de dix ans.
+Avec l'aide de son frere et de sa soeur, Elliott le cache a la maison
+et tente de l'aider a rentrer chez lui avant que les autorites le trouvent.
+
+Personnages:
+Elliott
+Gertie
+Michael
+Mary
