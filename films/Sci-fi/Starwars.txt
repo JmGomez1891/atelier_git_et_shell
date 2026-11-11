@@ -1,0 +1,20 @@
+Titre: Star Wars
+Annee: 1977
+Realisateur: George Lucas
+Genre: Science-fiction
+Duree: 121
+Pays: Etats-Unis
+Note: 8.6
+
+Synopsis:
+Un jeune fermier d'une planete desertique recoit un message de detresse
+cache dans un droide.
+Il rejoint un vieux chevalier, un contrebandier et une princesse rebelle
+pour detruire la station de combat de l'Empire.
+
+Personnages:
+Luke
+Leia
+Han
+Obi-Wan
+Vader
