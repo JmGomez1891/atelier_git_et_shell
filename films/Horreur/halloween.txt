@@ -1,0 +1,19 @@
+Titre: Halloween
+Annee: 1978
+Realisateur: John Carpenter
+Genre: Horreur
+Duree: 91
+Pays: Etats-Unis
+Note: 7.7
+
+Synopsis:
+Quinze ans apres avoir commis un meurtre le soir de l'Halloween,
+Michael Myers s'evade de l'hopital psychiatrique.
+Il retourne dans sa ville natale de Haddonfield, ou une jeune gardienne
+d'enfants devient sa cible.
+
+Personnages:
+Laurie
+Michael
+Loomis
+Annie
