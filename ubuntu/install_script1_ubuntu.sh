@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # fichiers à parser
 PACKAGE_APT="packageApt.txt"
