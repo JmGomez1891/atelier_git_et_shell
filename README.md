@@ -80,3 +80,25 @@ Les scripts sont dans `bin/`, rendus accessibles partout grâce au `.zshrc`.
 - [ ] Ajouter `bin/` au `PATH` dans le `.zshrc`, puis `source ~/.zshrc`
 - [ ] Créer un alias dans le `.zshrc`
 - [ ] Automatiser la création d'un dépôt : `bin/createGitRepo.sh`
+
+### Dotfiles_kickstarter (si le temps de permet)
+
+Tout-en-un : dotfiles, script d'installation et script de configuration
+pour l'atelier Git et shell de l'UQODE.
+
+## Installation rapide
+
+Exemple dans le terminal avec Ubuntu :
+
+```sh
+cd ubuntu
+
+chmod +x install_script1_ubuntu.sh
+chmod +x install_script2_ubuntu.sh
+
+./install_script1_ubuntu.sh
+./install_script2_ubuntu.sh
+```
+
+Testé sur : Ubuntu 24.04 LTS, WSL, macOS
+
