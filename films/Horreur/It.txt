@@ -1,0 +1,20 @@
+Titre: It
+Annee: 2017
+Realisateur: Andy Muschietti
+Genre: Horreur
+Duree: 135
+Pays: Etats-Unis
+Note: 7.3
+
+Synopsis:
+Dans la petite ville de Derry, des enfants disparaissent sans laisser de trace.
+Un groupe de jeunes surnomme le Club des Ratés decouvre qu'une creature
+prenant la forme d'un clown se nourrit de leurs peurs.
+Ils devront affronter leurs pires cauchemars pour la vaincre.
+
+Personnages:
+Bill
+Beverly
+Richie
+Eddie
+Pennywise
