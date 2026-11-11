@@ -43,3 +43,5 @@ cc() {
 
 # Aliases:
 alias py='python3' 
+
+fastfetch
