@@ -7,12 +7,11 @@ pour l'atelier Git et shell de l'UQODE.
 
 ### Partie 1 : le shell
 
-#### 1. Installation
+#### 1. Installation WSL (si besoin)
 
-- [ ] Ouvrir un terminal (Ubuntu, WSL ou macOS)
-- [ ] Récupérer ce dépôt (`git clone` ou téléchargement ZIP)
-- [ ] Lancer les scripts d'installation du dossier `ubuntu/` ou `mac/`
-- [ ] Redémarrer le terminal et vérifier le shell actif : `echo $SHELL`
+- [ ] Ouvrir un terminal (powershell admin)
+      wsl --install
+- [ ] Redémarrer l'ordinateur
 
 #### 2. Commandes de base
 
