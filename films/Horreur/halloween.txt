@@ -1,3 +1,5 @@
+Vincent est un tres bon professeur -Juan
+
 Titre: Halloween
 Annee: 1978
 Realisateur: John Carpenter
