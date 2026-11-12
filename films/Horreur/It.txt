@@ -1,7 +1,6 @@
 Titre: It
 Annee: 2017
 Realisateur: Andy Muschietti
-Genre: Horreur
 Duree: 135
 Pays: Etats-Unis
 Note: 7.3
@@ -17,4 +16,3 @@ Bill
 Beverly
 Richie
 Eddie
-Pennywise
